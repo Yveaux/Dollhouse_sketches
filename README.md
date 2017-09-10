@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Yveaux/Dollhouse_sketches/master/images/booth.jpg"> 
 
+<img src="https://raw.githubusercontent.com/Yveaux/Dollhouse_sketches/master/images/dollhouse_mysensored.png"> 
+
 Required libraries
 ========
 | Library       | Location      | Remarks  |
