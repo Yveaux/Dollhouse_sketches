@@ -1,5 +1,6 @@
 # MySensors Eindhoven Maker Faire 2017 Dollhouse sketches
 
+<img src="https://raw.githubusercontent.com/Yveaux/Dollhouse_sketches/master/images/booth.jpg"> 
 
 Required libraries
 ========
